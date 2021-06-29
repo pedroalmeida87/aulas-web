@@ -1,0 +1,5 @@
+Lição aula - 24/06
+1- A diferença entre os comandos git add -A e git add
+R-  git add -A = e git add = adiciona todos os arquivos.
+2- Como podemos desfazer/reverter um commit
+R- Com o comando git rest, fazemos o repositório voltar até a última commit.
