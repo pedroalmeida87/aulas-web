@@ -1,0 +1,30 @@
+Lição Aula - Pesquisa Avançada 
+
+1 - Como fazer pesquisas avançadas?
+R: -Colocando aspas no inicio da frase e no final; 
+
+-Utilizando o traço "-", exemplo "lead -jornalismo", vai excluir todas as buscas por "lead" no tópico de 
+jornalismo;
+
+-Procurar termos que você esquece utilizando (*) na frase, exemplo: "receita de bolo de fubá com *";
+
+-Procurando por um documento?, pode usar "filetype:" ou "ext:", exemplo: "filetype: doc relatório";
+
+-Para procurar algo dentro de um site, utilize nome da página ou site + site: + o que você procura + .com.br;
+
+-Para buscar termos da URL, utilize os comandos inurl: ou allinurl:, usando junto com o item anterior, exemplo:
+"site:resultadosdigitais.com.br inurl:seo";
+
+-Procurar páginas que tem uma palavra chave no título, use "intitlte:" antes do que procura, exemplo: 
+"intitle: marketing digital";
+
+-Procurar por termos no corpo do texto, use o comando "intext:" e "allintext:", exemplo: "intext:landing pages";
+
+-Para encontrar sites relacionados, use o comando "related", exemplo: "related:www.google.com";
+
+-Para buscar informações em um site, use o comando "info:", exemplo: "info:resultadosdigitais.com.br".Ao digitar o comando seguido de um endereço, o Google 
+mostra links para os seguintes atalhos:
+-“cache:”, que mostra a última versão do site salva pelo bot do Google;
+-“related:”, sobre o qual já falamos no item 9;
+-“site:”, como falamos no item 5.
+
